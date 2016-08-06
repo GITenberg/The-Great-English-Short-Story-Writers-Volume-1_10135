@@ -1,0 +1,140 @@
+_repo: The-Great-English-Short-Story-Writers-Volume-1_10135
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+  - agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+  - agent_name: Defoe, Daniel
+    aliases:
+    - Defo, Daniel
+    - Moreton, Andrew
+    - John, Gabriel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+  - agent_name: Hogg, James
+    alias: Craig, J. H.
+    birthdate: 1770
+    deathdate: &id002 1835
+    gutenberg_agent_id: '860'
+    url: http://www.gutenberg.org/2009/agents/860
+    wikipedia: http://en.wikipedia.org/wiki/James_Hogg
+  - agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: &id001 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+  - agent_name: Brown, John
+    birthdate: 1810
+    deathdate: 1882
+    gutenberg_agent_id: '1792'
+    url: http://www.gutenberg.org/2009/agents/1792
+    wikipedia: http://en.wikipedia.org/wiki/John_Brown_%28physician%29
+  - agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: &id003 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+  - agent_name: Stockton, Frank Richard
+    aliases:
+    - Stockton, Frank R. (Frank Richard)
+    - Stockton, Francis Richard
+    birthdate: 1834
+    deathdate: *id001
+    gutenberg_agent_id: '221'
+    url: http://www.gutenberg.org/2009/agents/221
+    wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
+  - agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+  - agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: *id002
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+  - agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+  - agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+  - agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+creator:
+  editors:
+  - agent_name: Dawson, W. J. (William James)
+    alias: Dawson, William James
+    birthdate: 1854
+    deathdate: *id003
+    gutenberg_agent_id: '7248'
+    url: http://www.gutenberg.org/2009/agents/7248
+  - agent_name: Dawson, Coningsby
+    aliases:
+    - Dawson, Coningsby W. (Coningsby William)
+    - Dawson, Coningsby William
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '2497'
+    url: http://www.gutenberg.org/2009/agents/2497
+    wikipedia: http://en.wikipedia.org/wiki/Coningsby_Dawson
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10135'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: The Apparition of Mrs. Veal, by Daniel Defoe -- The Mysterious Bride,
+  by James Hogg -- The Devil and Tom Walker, by Washington Irving -- Dr. Heidegger's
+  Experiment, by Nathaniel Hawthorne -- The Purloined Letter, by Edgar Allan Poe --
+  Rab and His Friends, by Dr. John Brown -- The Boots at the Holly-Tree Inn, by Charles
+  Dickens -- A Story of Seven Devils, by Frank R. Stockton -- A Dog's Tale, by Mark
+  Twain -- The Outcasts of Poker Flat, by Bret Harte -- The Three Strangers, by Thomas
+  Hardy -- Julia Bride, by Henry James -- A Lodging for the Night, by Robert Louis
+  Stevenson.
+title: The Great English Short-Story Writers, Volume 1
+url: http://www.gutenberg.org/ebooks/10135
