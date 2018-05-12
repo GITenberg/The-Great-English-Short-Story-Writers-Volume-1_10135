@@ -1,5 +1,5 @@
 _repo: The-Great-English-Short-Story-Writers-Volume-1_10135
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Dickens, Charles
@@ -30,14 +30,14 @@ contributor:
   - agent_name: Hogg, James
     alias: Craig, J. H.
     birthdate: 1770
-    deathdate: &id002 1835
+    deathdate: 1835
     gutenberg_agent_id: '860'
     url: http://www.gutenberg.org/2009/agents/860
     wikipedia: http://en.wikipedia.org/wiki/James_Hogg
   - agent_name: Harte, Bret
     alias: Harte, Francis Bret
     birthdate: 1836
-    deathdate: &id001 1902
+    deathdate: 1902
     gutenberg_agent_id: '593'
     url: http://www.gutenberg.org/2009/agents/593
     wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
@@ -49,7 +49,7 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/John_Brown_%28physician%29
   - agent_name: Hardy, Thomas
     birthdate: 1840
-    deathdate: &id003 1928
+    deathdate: 1928
     gutenberg_agent_id: '23'
     url: http://www.gutenberg.org/2009/agents/23
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
@@ -58,7 +58,7 @@ contributor:
     - Stockton, Frank R. (Frank Richard)
     - Stockton, Francis Richard
     birthdate: 1834
-    deathdate: *id001
+    deathdate: 1902
     gutenberg_agent_id: '221'
     url: http://www.gutenberg.org/2009/agents/221
     wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
@@ -72,7 +72,7 @@ contributor:
     aliases:
     - Clemens, Samuel Langhorne
     - Twain, Mark (Samuel Clemens)
-    birthdate: *id002
+    birthdate: 1835
     deathdate: 1910
     gutenberg_agent_id: '53'
     url: http://www.gutenberg.org/2009/agents/53
@@ -97,12 +97,15 @@ contributor:
     gutenberg_agent_id: '35'
     url: http://www.gutenberg.org/2009/agents/35
     wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editors:
   - agent_name: Dawson, W. J. (William James)
     alias: Dawson, William James
     birthdate: 1854
-    deathdate: *id003
+    deathdate: 1928
     gutenberg_agent_id: '7248'
     url: http://www.gutenberg.org/2009/agents/7248
   - agent_name: Dawson, Coningsby
@@ -115,6 +118,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2497
     wikipedia: http://en.wikipedia.org/wiki/Coningsby_Dawson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10135#The-Great-English-Short-Story-Writers-Volume-1
 gutenberg_bookshelf: Short Stories
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
